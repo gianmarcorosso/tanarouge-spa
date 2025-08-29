@@ -20,7 +20,7 @@ function Live() {
     <div className="widget-container" style={{ maxWidth: '1200px', margin: '20px auto 0 auto', paddingLeft: '2%', paddingRight: '2%' }}>
       <a
         className="bit-widget-initializer"
-        href="#"
+        href="https://www.bandsintown.com/a/15610204-tanarouge"
         aria-label="Bandsintown Widget"
         data-artist-name="id_15610204"
         data-events-to-display=""
