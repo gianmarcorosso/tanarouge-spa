@@ -1,0 +1,367 @@
+/* Stile dell'header */
+header {
+    display: flex;
+    font-family: 'Aguzzo Regular' !important;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2% 1rem 2%;
+    color: black;
+    background-color: transparent;
+    box-sizing: border-box;
+}
+
+/* Aggiungi il padding alla sezione #info */
+#info {
+    padding: 2rem 2%;
+    box-sizing: border-box;
+}
+
+.description {
+    font-size: 1rem;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+/* Corpo */
+body {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 11px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    text-transform: none;
+    color: #000;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 0 2%;
+}
+
+/* Live section */
+.live-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 2%;
+    box-sizing: border-box;
+    height: calc(100vh - 4rem);
+    background-color: #f5f5f5;
+}
+
+.live-section iframe {
+    width: 100%;
+    height: 100%;
+    max-width: 1000px;
+    max-height: 562.5px;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Main */
+main {
+    flex: 1;
+}
+
+/* Link e testo */
+a, p {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+/* Menu e social */
+.menu {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: flex-start;
+}
+
+.menu a.artist-name {
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.menu a:not(.artist-name) {
+    font-size: 1.2rem;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.menu a:not(.artist-name):hover {
+    text-decoration: underline;
+}
+
+/* Mantieni il colore e il testo delle voci */
+.menu a {
+    color: black;
+    margin-right: 1rem;
+}
+
+/* Social */
+.menu .social {
+    display: flex;
+    margin-left: auto;
+}
+
+.social a {
+    margin: 0 0.5rem;
+}
+
+.social a img {
+    width: 1rem;
+    height: 1rem;
+    transition: opacity 0.3s ease;
+}
+
+.social a:hover img {
+    opacity: 1;
+}
+
+.social:hover a img {
+    opacity: 0.3;
+}
+
+.social:hover a:hover img {
+    opacity: 1;
+}
+
+/* Mobile menu */
+.mobile-menu {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    z-index: 1000;
+    overflow: hidden;
+}
+
+.mobile-menu.open {
+    display: flex;
+}
+
+.mobile-menu .social {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-left: 0;
+    display: flex;
+    gap: 1rem; /* distanza tra le icone */
+}
+
+.mobile-menu .social a img {
+    width: 1rem;
+    height: 1rem;
+}
+
+/* Mobile menu links font size */
+.mobile-menu a {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 1rem 0;
+}
+
+/* Music grid */
+.music-grid {
+    display: grid;
+    padding: 2rem 2%;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 1rem;
+}
+
+.music-item {
+    position: relative;
+    width: 300px;
+    margin: 1rem;
+    overflow: hidden;
+}
+
+.music-item img {
+    width: 100%;
+    display: block;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+    padding: 4px;
+}
+
+.music-item .info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,0.5);
+    color: white;
+    padding: 0.5rem;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-family: 'Aguzzo Italic', sans-serif;
+}
+
+.music-item:hover .info {
+    opacity: 1;
+}
+
+/* Container e footer */
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#footer-container {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.8rem;
+    padding: 2rem 0;
+    color: #333;
+}
+
+/* Mobile menu */
+.mobile-header {
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-size: 1.5rem;
+    box-sizing: border-box;
+}
+
+.mobile-menu-icon {
+    cursor: pointer;
+    font-size: 2rem;
+    margin: 1rem;
+    position: relative;
+    z-index: 1001;
+    display: flex;
+    align-items: center;
+}
+
+.mobile-menu-icon .open-icon {
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.mobile-menu-icon .close-icon {
+    display: none;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.mobile-menu.open + .mobile-menu-icon .open-icon {
+    display: none;
+}
+
+.mobile-menu.open + .mobile-menu-icon .close-icon {
+    display: inline-block;
+}
+
+.mobile-menu-icon img {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+/* Home section */
+#home {
+    display: flex;
+    padding: 3rem 2% 1rem 2%;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.background-image {
+    max-width: 50%;
+    max-height: 50vh;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+.text-content {
+    max-width: 50%;
+    color: white;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#home iframe {
+    width: 80vw;
+    height: 45vw;
+    max-width: 1000px;
+    max-height: 562.5px;
+    border: none;
+}
+
+/* Media queries */
+@media (max-width: 768px) {
+    #home {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .background-image,
+    .text-content {
+        max-width: 90%;
+    }
+
+    .background-image {
+        margin-bottom: 20px;
+    }
+
+    .mobile-header {
+        display: flex;
+    }
+
+    #home iframe {
+        width: 90vw;
+        height: 50vw;
+    }
+
+    .music-grid {
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+
+    .music-item {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .music-item img {
+        width: 100%;
+    }
+
+    .menu,
+    .social {
+        display: none;
+    }
+}
+
+@media (min-width: 769px) {
+    .mobile-header {
+        display: none;
+    }
+    /* .menu .social already handled above */
+}
