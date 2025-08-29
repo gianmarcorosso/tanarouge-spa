@@ -1,6 +1,10 @@
-import React from 'react';
+import { useEffect } from 'react';
 
 function Info() {
+  useEffect(() => {
+    document.title = "Tanarouge — Info";
+  }, []);
+
     return (
         <>
             <div id="header-container"></div>

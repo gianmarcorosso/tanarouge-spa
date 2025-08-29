@@ -1,7 +1,10 @@
 // src/pages/Music.jsx
-import React from 'react';
+import { useEffect } from 'react';
 
 function Music() {
+  useEffect(() => {
+    document.title = "Tanarouge — Music";
+  }, []);
   return (
     <main>
       <section id="music" style={{ paddingTop: '2rem' }}>

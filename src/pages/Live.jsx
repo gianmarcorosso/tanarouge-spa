@@ -7,6 +7,7 @@ function Live() {
     script.charset = 'utf-8';
     script.async = true;
     document.body.appendChild(script);
+    document.title = "Tanarouge — Live";
 
     script.onload = () => {
       const widget = document.querySelector('.bit-widget-initializer');

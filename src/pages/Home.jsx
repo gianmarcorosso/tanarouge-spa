@@ -1,7 +1,10 @@
 // src/pages/Home.jsx
-import React from 'react';
+import React, { useEffect } from 'react';
 
 function Home() {
+  useEffect(() => {
+    document.title = "Tanarouge — Home";
+  }, []);
   return (
     <main>
       <section id="home">
