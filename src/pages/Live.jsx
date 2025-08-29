@@ -20,6 +20,8 @@ function Live() {
     <div className="widget-container" style={{ maxWidth: '1200px', margin: '20px auto 0 auto', paddingLeft: '2%', paddingRight: '2%' }}>
       <a
         className="bit-widget-initializer"
+        href="#"
+        aria-label="Bandsintown Widget"
         data-artist-name="id_15610204"
         data-events-to-display=""
         data-background-color="rgba(255,255,255,1)"
@@ -104,7 +106,9 @@ function Live() {
         data-affil-code=""
         data-bit-logo-position="hidden"
         data-bit-logo-color="rgba(66,66,66,1)"
-      ></a>
+      >
+        Bandsintown Widget
+      </a>
     </div>
   );
 }
