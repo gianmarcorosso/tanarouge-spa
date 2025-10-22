@@ -19,6 +19,7 @@ function Header() {
         <Link to="/" className="artist-name">Tanarouge</Link>
         <Link to="/home" data-page="home" data-title="Home" className="home-link">Home</Link>
         <Link to="/music" data-page="music" data-title="Music">Music</Link>
+        <a href="https://circletoughts.notion.site/thoughts-d2634dbef5fb478980e90878dc850ffa" target="_blank" rel="noopener noreferrer">Blog</a>
         <Link to="/live" data-page="live" data-title="Live">Live</Link>
         <Link to="/info" data-page="info" data-title="Info">Info</Link>
         <div className="social" aria-label="Social media links">
@@ -53,6 +54,7 @@ function Header() {
       <div className={`mobile-menu${menuOpen ? ' open' : ''}`}>
         <Link to="/home" data-page="home" data-title="Home" className="home-link" onClick={closeMenu}>Home</Link>
         <Link to="/music" data-page="music" data-title="Music" className="home-link" onClick={closeMenu}>Music</Link>
+        <a href="https://circletoughts.notion.site/thoughts-d2634dbef5fb478980e90878dc850ffa" target="_blank" rel="noopener noreferrer" className="home-link" onClick={closeMenu}>Blog</a>
         <Link to="/live" data-page="live" data-title="Live" className="home-link" onClick={closeMenu}>Live</Link>
         <Link to="/info" data-page="info" data-title="Info" className="home-link" onClick={closeMenu}>Info</Link>
         <div className="social" aria-label="Social media links mobile">
