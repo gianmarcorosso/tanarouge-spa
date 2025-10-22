@@ -16,7 +16,7 @@ function Header() {
     <header id="header">
       {/* Desktop menu */}
       <div className="menu">
-        <Link to="/" className="artist-name">Tanarouge</Link>
+        <Link to="/" className="artist-name">⊙ Tanarouge</Link>
         <Link to="/home" data-page="home" data-title="Home" className="home-link">Home</Link>
         <Link to="/music" data-page="music" data-title="Music">Music</Link>
         <a href="https://circletoughts.notion.site/circle-thoughts-6159fd0576e94df9bed51900f499239b" target="_blank" rel="noopener noreferrer">Blog</a>
@@ -33,7 +33,7 @@ function Header() {
 
       {/* Mobile header */}
       <div className="mobile-header">
-        <Link to="/" className="artist-name">Tanarouge</Link>
+        <Link to="/" className="artist-name">⊙ Tanarouge</Link>
         <div className="mobile-menu-icon" aria-label="Toggle menu" onClick={toggleMenu}>
           <img
             src="assets/icons/plus.svg"
@@ -57,6 +57,9 @@ function Header() {
         <a href="https://circletoughts.notion.site/circle-thoughts-6159fd0576e94df9bed51900f499239b" target="_blank" rel="noopener noreferrer" className="home-link" onClick={closeMenu}>Blog</a>
         <Link to="/live" data-page="live" data-title="Live" className="home-link" onClick={closeMenu}>Live</Link>
         <Link to="/info" data-page="info" data-title="Info" className="home-link" onClick={closeMenu}>Info</Link>
+        <div className="mobile-logo-symbol" style={{ textAlign: 'center', marginTop: '1rem', fontSize: '1.5rem' }}>
+          ⊙
+        </div>
         <div className="social" aria-label="Social media links mobile">
           <a href="https://instagram.com/tanarouge" target="_blank" rel="noopener noreferrer"><img src="assets/icons/instagram.svg" alt="Instagram" /></a>
           <a href="https://tiktok.com/@tanarougemusic" target="_blank" rel="noopener noreferrer"><img src="assets/icons/tiktok.svg" alt="TikTok" /></a>
