@@ -110,6 +110,7 @@ a:hover {
 .menu .social {
     display: flex;
     margin-left: auto;
+    align-items: center;
 }
 
 .social a {
@@ -383,4 +384,110 @@ a:hover {
         display: none;
     }
     /* .menu .social already handled above */
+}
+
+/* Theme toggle button */
+.theme-toggle {
+    background: none;
+    border: none;
+    font-size: 1.6rem;
+    cursor: pointer;
+    padding: 0;
+    margin: 0 0.5rem;
+    transition: transform 0.2s ease;
+    color: inherit;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    position: relative;
+    top: -3px;
+}
+
+.theme-toggle:hover {
+    transform: scale(1.1);
+}
+
+.mobile-menu .theme-toggle {
+    margin: 1.5rem 0;
+    font-size: 2rem;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body.dark-mode header {
+    color: #e0e0e0;
+}
+
+body.dark-mode a,
+body.dark-mode p {
+    color: #e0e0e0;
+}
+
+body.dark-mode a:hover {
+    color: #e0e0e0;
+}
+
+body.dark-mode .menu a {
+    color: #e0e0e0;
+}
+
+body.dark-mode .description {
+    color: #ccc;
+}
+
+body.dark-mode .text-content {
+    color: #e0e0e0;
+}
+
+body.dark-mode #footer-container {
+    color: #aaa;
+}
+
+body.dark-mode .mobile-menu {
+    background-color: #121212;
+}
+
+body.dark-mode .mobile-menu a {
+    color: #e0e0e0;
+}
+
+body.dark-mode .live-section {
+    background-color: #1a1a1a;
+}
+
+body.dark-mode .music-item img {
+    border-color: #444;
+}
+
+body.dark-mode .social a img {
+    filter: invert(1);
+}
+
+body.dark-mode .mobile-menu-icon img {
+    filter: invert(1);
+}
+
+/* Light mode explicit (for toggle override) */
+body.light-mode {
+    background-color: #ffffff;
+    color: #000;
+}
+
+body.light-mode .social a img,
+
+body.light-mode .mobile-menu-icon img {
+
+    filter: none;
+
+}
+
+/* Increase size for Amazon Music icon */
+.social a img[src*="amazonmusic.svg"] {
+    width: 1.3rem;
+    height: 1.3rem;
 }
