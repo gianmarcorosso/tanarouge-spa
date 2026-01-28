@@ -48,7 +48,7 @@ function Header() {
           <a href="https://x.com/tanarouge" target="_blank" rel="noopener noreferrer"><img src="assets/icons/x.svg" alt="X" /></a>
           <a href="https://open.spotify.com/artist/565GKMj0rrNhGBPyNR4RUT?si=oRssEFu2TBSyfpvYfVBTtQ&dl_branch=1" target="_blank" rel="noopener noreferrer"><img src="assets/icons/spotify.svg" alt="Spotify" /></a>
           <a href="https://music.amazon.com/artists/B08ZJT72C9/tanarouge" target="_blank" rel="noopener noreferrer"><img src="assets/icons/amazonmusic.svg" alt="Amazon Music" /></a>
-          <a href="https://music.apple.com/it/artist/tanarouge/1492120861" target="_blank" rel="noopener noreferrer"><img src="assets/icons/apple-music.svg" alt="Apple Music" /></a>
+          <a href="https://music.apple.com/us/artist/tanarouge/1736514682" target="_blank" rel="noopener noreferrer"><img src="assets/icons/apple-music.svg" alt="Apple Music" /></a>
         </div>
         <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme">
           ⊙
@@ -89,7 +89,7 @@ function Header() {
           <a href="https://x.com/tanarouge" target="_blank" rel="noopener noreferrer"><img src="assets/icons/x.svg" alt="X" /></a>
           <a href="https://open.spotify.com/artist/565GKMj0rrNhGBPyNR4RUT?si=oRssEFu2TBSyfpvYfVBTtQ&dl_branch=1" target="_blank" rel="noopener noreferrer"><img src="assets/icons/spotify.svg" alt="Spotify" /></a>
           <a href="https://music.amazon.com/artists/B08ZJT72C9/tanarouge" target="_blank" rel="noopener noreferrer"><img src="assets/icons/amazonmusic.svg" alt="Amazon Music" /></a>
-          <a href="https://music.apple.com/it/artist/tanarouge/1492120861" target="_blank" rel="noopener noreferrer"><img src="assets/icons/apple-music.svg" alt="Apple Music" /></a>
+          <a href="https://music.apple.com/us/artist/tanarouge/1736514682" target="_blank" rel="noopener noreferrer"><img src="assets/icons/apple-music.svg" alt="Apple Music" /></a>
         </div>
       </div>
     </header>
