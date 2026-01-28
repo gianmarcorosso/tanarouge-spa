@@ -15,9 +15,16 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && react-snap",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "reactSnap": {
+    "source": "build",
+    "skipThirdPartyRequests": true,
+    "puppeteerArgs": ["--no-sandbox", "--disable-setuid-sandbox"],
+    "puppeteerIgnoreHTTPSErrors": true,
+    "inlineCss": true
   },
   "eslintConfig": {
     "extends": [
@@ -36,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-snap": "^1.23.0"
   }
 }
