@@ -10,8 +10,8 @@ function Home() {
       <section id="home">
         <picture>
           <source media="(max-width: 768px)" srcSet="/assets/images/main-shot-A-square.png" />
-          <source media="(min-width: 769px)" srcSet="/assets/images/coming-soon.png" />
-          <img src="/assets/images/coming-soon.png" className="background-image" alt="Tanarouge" />
+          <source media="(min-width: 769px)" srcSet="/assets/images/comingsoon-outnow.png" />
+          <img src="/assets/images/comingsoon-outnow.png" className="background-image" alt="Tanarouge" />
         </picture>
         <div className="text-content">
           <p className="description desktop-bio">
