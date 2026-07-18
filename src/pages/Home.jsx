@@ -2,10 +2,15 @@
 import React, { useEffect, useRef, useState } from 'react';
 
 const CHAPTERS = 81;
-const RENDER_TIMEOUT = 3500; // ms to wait before assuming the chapter didn't draw
+const RENDER_TIMEOUT = 1800; // ms to wait before checking whether it drew
+const MAX_TRIES = 6;         // stop rerolling after this many attempts
 
-function randomChapter() {
-  return Math.floor(Math.random() * CHAPTERS) + 1;
+function randomChapter(exclude) {
+  let c;
+  do {
+    c = Math.floor(Math.random() * CHAPTERS) + 1;
+  } while (c === exclude);
+  return c;
 }
 
 function buildSrc(chapter) {
@@ -16,45 +21,83 @@ function Home() {
   const [src, setSrc] = useState('');
   const iframeRef = useRef(null);
   const timerRef = useRef(null);
+  const chapterRef = useRef(0);
+  const triesRef = useRef(0);
+
+  const load = () => {
+    const next = randomChapter(chapterRef.current);
+    chapterRef.current = next;
+    setSrc(buildSrc(next));
+  };
 
   useEffect(() => {
     document.title = 'Tanarouge';
     // Skip the visualizer during react-snap prerender: its script uses modern
     // syntax that react-snap's headless Chromium can't parse (breaks the build).
     if (navigator.userAgent === 'ReactSnap') return;
-    setSrc(buildSrc(randomChapter()));
+    load();
     return () => clearTimeout(timerRef.current);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  // Reload with a different chapter (used on both load-failure and blank render).
-  const reroll = () => setSrc(buildSrc(randomChapter()));
+  const reroll = () => {
+    if (triesRef.current >= MAX_TRIES) return; // give up, avoid infinite loop
+    triesRef.current += 1;
+    clearTimeout(timerRef.current);
+    load();
+  };
 
   // Once the iframe loads, verify the visualizer actually drew something.
-  // Some chapters occasionally mount with a zero-size / empty stage and show
-  // nothing; if so, pick another chapter.
+  // Some chapters render nothing (blank canvas) or fail to create a WebGL
+  // context; in those cases pick another chapter.
   const handleLoad = () => {
     clearTimeout(timerRef.current);
+
+    // Catch runtime failures inside the iframe (e.g. WebGL context errors).
+    try {
+      const win = iframeRef.current && iframeRef.current.contentWindow;
+      if (win) {
+        win.addEventListener('error', reroll, { once: true });
+      }
+    } catch (e) {
+      /* cross-origin shouldn't happen (same-origin) */
+    }
+
     timerRef.current = setTimeout(() => {
       const frame = iframeRef.current;
       if (!frame) return;
-      let ok = false;
+      let ok = true; // default to keeping it if we can't tell
       try {
         const doc = frame.contentDocument;
-        const stage = doc && doc.getElementById('stage');
-        const el = stage && stage.firstElementChild;
-        if (el) {
-          const rect = el.getBoundingClientRect();
-          // The visualizer renders inside the element's shadow root (canvas or
-          // ASCII text). Look there, not the light DOM.
-          const root = el.shadowRoot;
-          const canvas = root && root.querySelector('canvas');
-          const drew =
-            (canvas && canvas.width > 0 && canvas.height > 0) ||
-            (root && (root.querySelector('svg') || (root.textContent || '').trim().length > 0));
-          ok = rect.width > 0 && rect.height > 0 && !!drew;
+        const el = doc && doc.getElementById('stage') && doc.getElementById('stage').firstElementChild;
+        const root = el && el.shadowRoot;
+        if (root) {
+          const canvas = root.querySelector('canvas');
+          const textLen = (root.textContent || '').trim().length;
+          if (canvas) {
+            // For a readable 2D canvas, sample pixels: if everything matches the
+            // background, nothing was drawn.
+            try {
+              const ctx = canvas.getContext('2d');
+              const { data } = ctx.getImageData(0, 0, canvas.width, canvas.height);
+              let painted = 0;
+              for (let i = 0; i < data.length; i += 400) {
+                if (Math.abs(data[i] - 240) > 12 || Math.abs(data[i + 1] - 238) > 12) {
+                  painted += 1;
+                  if (painted > 3) break;
+                }
+              }
+              ok = painted > 3;
+            } catch (e) {
+              ok = canvas.width > 0 && canvas.height > 0; // WebGL/tainted: trust size
+            }
+          } else {
+            ok = textLen > 0; // ASCII chapters
+          }
+        } else {
+          ok = false; // element never mounted its shadow render
         }
       } catch (e) {
-        // Same-origin, so this shouldn't throw; if it does, assume it's fine.
         ok = true;
       }
       if (!ok) reroll();
