@@ -536,13 +536,11 @@ body.light-mode .mobile-menu-icon img {
     width: 1.3rem;
     height: 1.3rem;
 }
-/* Home = fullscreen visualizer, no scroll */
-html:has(#home-visualizer),
+/* Home = fullscreen visualizer.
+   Keep the page just barely taller than the viewport: no visible scroll of
+   content, but enough overscroll room for the mobile pull-to-refresh gesture. */
 body:has(#home-visualizer) {
-    height: 100%;
-    min-height: 0;
-    overflow: hidden;
-    overscroll-behavior: none;
+    min-height: calc(100dvh + 1px);
 }
 
 #home-visualizer {
