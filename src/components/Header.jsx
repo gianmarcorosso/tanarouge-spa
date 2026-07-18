@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const location = useLocation();
+  // home route is the fullscreen visualizer -> keep header text/icons black
+  const onVisualizer = location.pathname === '/';
   const [darkMode, setDarkMode] = useState(() => {
     const saved = localStorage.getItem('theme');
     if (saved) return saved === 'dark';
@@ -34,7 +37,7 @@ function Header() {
   };
 
   return (
-    <header id="header">
+    <header id="header" className={onVisualizer ? 'visualizer-open' : ''}>
       {/* Desktop menu */}
       <div className="menu">
         <Link to="/" className="artist-name">⊙ Tanarouge</Link>
@@ -92,6 +95,7 @@ function Header() {
           <a href="https://music.apple.com/us/artist/tanarouge/1736514682" target="_blank" rel="noopener noreferrer"><img src="assets/icons/apple-music.svg" alt="Apple Music" /></a>
         </div>
       </div>
+
     </header>
   );
 }

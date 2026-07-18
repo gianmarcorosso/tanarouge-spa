@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>The Way of Code — Random Art</title>
+<style>
+  html,body{margin:0;padding:0;height:100%;width:100%;background:#F0EEE6;overflow:hidden;}
+  #stage{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:#F0EEE6;overflow:hidden;}
+  way-of-code{display:block;width:100vw;height:100vh;}
+  #tag{position:fixed;left:14px;bottom:12px;font:12px/1.4 "Courier New",monospace;color:#33333366;z-index:10;user-select:none;pointer-events:none;}
+</style>
+</head>
+<body>
+<div id="stage"></div>
+<script src="way-of-code.js"></script>
+<script>
+  // ?n=NN forces a chapter; otherwise random each load.
+  // Create the element AFTER setting chapter so connectedCallback sees it.
+  var forced = new URLSearchParams(location.search).get('n');
+  var el = document.createElement('way-of-code');
+  if (forced) el.setAttribute('chapter', forced);
+  document.getElementById('stage').appendChild(el);
+</script>
+</body>
+</html>

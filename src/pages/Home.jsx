@@ -1,30 +1,27 @@
 // src/pages/Home.jsx
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 
 function Home() {
+  const [src, setSrc] = useState('');
+
   useEffect(() => {
-    document.title = "Tanarouge — Home";
+    document.title = "Tanarouge";
+    // random chapter (1-81); cache-bust forces a fresh load each visit
+    const chapter = Math.floor(Math.random() * 81) + 1;
+    setSrc(`${process.env.PUBLIC_URL}/way-of-code/demo.html?n=${chapter}&t=${Date.now()}`);
   }, []);
+
   return (
     <main>
-      <section id="home">
-        <picture>
-          <source media="(max-width: 768px)" srcSet="/assets/images/main-shot-A-square.png" />
-          <source media="(min-width: 769px)" srcSet="/assets/images/comingsoon-outnow.png" />
-          <img src="/assets/images/comingsoon-outnow.png" className="background-image" alt="Tanarouge" />
-        </picture>
-        <div className="text-content">
-          <p className="description desktop-bio">
-            Venice-based artist and producer Tanarouge is in constant pursuit of connection between sound and emotion, human expression and nature. Shaped by electronic landscapes, ambient textures, and a fusion of countless influences, he crafts music that blends raw sonic elements, psychedelic atmospheres and immersive soundscapes of electronic music that aims at the heart, through the ribcage.
-            <br /><br />
-            For Tanarouge, each album is a timestamp: a reflection of a moment, an evolving snapshot of emotion and experience, never confined by genre or industry expectations. With an artistic vision rooted in creative freedom, he collaborates with musicians and creatives worldwide, leaving a distinctive sonic imprint across different projects.
-            <br /><br />
-            His music is an invitation to immerse, explore, let go of the unnecessary, and connect with the essence of sound.
-          </p>
-          <p className="description mobile-bio">
-            Venice-based artist and producer Tanarouge is in constant pursuit of connection—between sound and emotion, human expression and nature.
-          </p>
-        </div>
+      <section id="home-visualizer">
+        {src && (
+          <iframe
+            className="visualizer-frame"
+            src={src}
+            title="Visualizer"
+            allowFullScreen
+          />
+        )}
       </section>
     </main>
   );
