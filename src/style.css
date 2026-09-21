@@ -1,20 +1,7 @@
-/* Font globale del sito */
-:root {
-    --font-main: 'Montserrat', sans-serif;
-}
-
-html, body, button, input, select, textarea {
-    font-family: var(--font-main);
-}
-
-*, *::before, *::after {
-    font-family: inherit;
-}
-
 /* Stile dell'header */
 header {
     display: flex;
-    font-family: var(--font-main);
+    font-family: 'Aguzzo Regular' !important;
     align-items: center;
     justify-content: space-between;
     padding: 3rem 2% 1rem 2%;
@@ -251,8 +238,7 @@ a:hover {
     padding: 0.5rem;
     opacity: 0;
     transition: opacity 0.3s;
-    font-family: var(--font-main);
-    font-style: italic;
+    font-family: 'Aguzzo Italic', sans-serif;
 }
 
 .music-item:hover .info {
