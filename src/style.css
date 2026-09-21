@@ -545,6 +545,109 @@ body.light-mode .mobile-menu-icon img {
 
 }
 
+/* Social dropdown: Spotify / Apple Music open a Tanarouge vs TNRG picker.
+   The toggle is a <button>, so it needs the icon rules the <a> siblings get. */
+.social-dropdown {
+    position: relative;
+    display: inline-flex;
+    margin: 0 0.5rem;
+}
+
+.social-dropdown-toggle {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    line-height: 0;
+}
+
+.social-dropdown-toggle img {
+    width: 1rem;
+    height: 1rem;
+    transition: opacity 0.3s ease;
+}
+
+/* Match the sibling-dimming hover behaviour of .social a */
+.social:hover .social-dropdown-toggle img {
+    opacity: 0.3;
+}
+
+.social-dropdown:hover .social-dropdown-toggle img,
+.social-dropdown.open .social-dropdown-toggle img {
+    opacity: 1;
+}
+
+.social-dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 0.5rem;
+    padding: 0.4rem 0;
+    min-width: 7.5rem;
+    background-color: #F0EEE6;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    z-index: 1100;
+}
+
+.social-dropdown.open .social-dropdown-menu {
+    display: block;
+}
+
+/* Override .menu a margin/size so the items read as a list, not nav links */
+.social-dropdown-menu a {
+    display: block;
+    padding: 0.35rem 0.9rem;
+    margin: 0;
+    font-size: 0.85rem;
+    font-style: italic;
+    letter-spacing: 1px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: #000;
+    opacity: 1;
+}
+
+.social-dropdown-menu a:hover {
+    text-decoration: underline;
+}
+
+body.dark-mode .social-dropdown-toggle img {
+    filter: invert(1);
+}
+
+body.light-mode .social-dropdown-toggle img {
+    filter: none;
+}
+
+body.dark-mode .social-dropdown-menu {
+    background-color: #1a1a1a;
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+body.dark-mode .social-dropdown-menu a {
+    color: #fff;
+}
+
+/* In the fullscreen mobile menu the social row sits at the bottom of the
+   screen, so the dropdown must open upward or it would be clipped offscreen. */
+.mobile-menu .social-dropdown-menu {
+    top: auto;
+    bottom: 100%;
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.mobile-menu .social-dropdown {
+    margin: 0;
+}
+
 /* Increase size for Amazon Music icon */
 .social a img[src*="amazonmusic.svg"] {
     width: 1.3rem;
