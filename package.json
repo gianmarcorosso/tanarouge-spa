@@ -17,12 +17,16 @@
     "start": "react-scripts start",
     "build": "react-scripts build && react-snap",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "sync-releases": "node scripts/sync-releases.js"
   },
   "reactSnap": {
     "source": "build",
     "skipThirdPartyRequests": true,
-    "puppeteerArgs": ["--no-sandbox", "--disable-setuid-sandbox"],
+    "puppeteerArgs": [
+      "--no-sandbox",
+      "--disable-setuid-sandbox"
+    ],
     "puppeteerIgnoreHTTPSErrors": true,
     "inlineCss": true
   },

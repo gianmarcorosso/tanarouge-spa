@@ -1,5 +1,7 @@
 import { useEffect } from 'react';
 
+const SFF_INSTAGRAM = 'https://instagram.com/santissimaff';
+
 function Info() {
   useEffect(() => {
     document.title = "Tanarouge — Info";
@@ -17,17 +19,27 @@ function Info() {
                             <br /><br />
                             For Tanarouge, each album is a timestamp: a reflection of a moment, an evolving snapshot of emotion and experience, never confined by genre or industry expectations. With an artistic vision rooted in creative freedom, he collaborates with musicians and creatives worldwide, leaving a distinctive sonic imprint across different projects.
                             <br /><br />
-                            His music is an invitation to immerse, explore, let go of the unnecessary, and connect with the essence of sound.
+                            TNRG is what Tanarouge sounds like without the polish — rawer, more indie, more distorted, the same search for sound pushed into its roughest form, that he also carries into{' '}
+                            <a href={SFF_INSTAGRAM} target="_blank" rel="noopener noreferrer">Santissima Foresta In Fiamme</a>{' '}
+                            as artist and producer.
+                            <br /><br />
+                            In both forms, his music is an invitation to immerse, explore, let go of the unnecessary, and connect with the essence of sound.
                         </p>
                         <p className="description mobile-bio">
-                            Venice-based artist and producer Tanarouge is in constant pursuit of connection—between sound and emotion, human expression and nature.
+                            Venice-based artist and producer Tanarouge is in constant pursuit of connection between sound and emotion, human expression and nature. Shaped by electronic landscapes and ambient textures, he crafts music that aims at the heart, through the ribcage.
+                            <br /><br />
+                            Each album is a timestamp: a reflection of a moment, never confined by genre or industry expectations.
+                            <br /><br />
+                            TNRG is what Tanarouge sounds like without the polish — rawer, more distorted, that he also carries into{' '}
+                            <a href={SFF_INSTAGRAM} target="_blank" rel="noopener noreferrer">Santissima Foresta In Fiamme</a>{' '}
+                            as artist and producer.
                         </p>
                     </div>
                 </section>
                 <section id="info">
                     {/* <p className="infobox" style={{whiteSpace: 'pre-wrap'}}>MANAGEMENT<br/><a href="mailto:info@futurebeat.co.uk"><em>info</em>@<em>futurebeat.co.uk</em></a></p> */}
-                    <p className="infobox" style={{whiteSpace: 'pre-wrap'}}>INQUIRES / BOOKING<br/><a href="mailto:tanarouge@gmail.com"><em>tanarouge</em>@<em>gmail.com</em></a></p>
-                    <p className="infobox copyright" style={{whiteSpace: 'pre-wrap'}}>&copy; Circle Thoughts Recordings</p>
+                    <p className="infobox" style={{whiteSpace: 'pre-wrap'}}>INQUIRES / BOOKING<br/><a href="mailto:tanarouge@gmail.com">tanarouge@gmail.com</a></p>
+                    <p className="infobox copyright" style={{whiteSpace: 'pre-wrap'}}><span className="copyright-mark">&copy;</span> Circle Thoughts Recordings</p>
                 </section>
             </main>
         </>

@@ -1,0 +1,2417 @@
+[
+  {
+    "id": "tanarouge",
+    "label": "Tanarouge",
+    "releases": [
+      {
+        "id": "1013837501",
+        "title": "Sailing",
+        "artist": "Sorekara",
+        "creditedArtists": "Sorekara, Tanarouge, Chihei Hatakeyama",
+        "releaseDate": "2026-07-10",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 256,
+        "playlistTitles": [
+          "Sailing"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/37/20/de37203c-a5e2-af46-164a-b5158294c8a3/5064020556539_cover.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/37/20/de37203c-a5e2-af46-164a-b5158294c8a3/5064020556539_cover.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2iH5SjBAHse4EaO69JbXLf",
+          "apple": "https://music.apple.com/album/sailing-single/6784052417",
+          "deezer": "https://www.deezer.com/album/1013837501"
+        }
+      },
+      {
+        "id": "1014597621",
+        "title": "Long Distance",
+        "artist": "Sorekara",
+        "creditedArtists": "Sorekara, Tanarouge, Jasper van Dijk",
+        "releaseDate": "2026-07-06",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 208,
+        "playlistTitles": [
+          "Long Distance"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/f8/48/3ff84813-1469-b129-6bd3-91ab9376e4bc/5064020592926_cover.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/f8/48/3ff84813-1469-b129-6bd3-91ab9376e4bc/5064020592926_cover.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/4Wjx57dck9vpDlVw8rk8mJ",
+          "apple": "https://music.apple.com/album/long-distance-single/6784402945",
+          "deezer": "https://www.deezer.com/album/1014597621"
+        }
+      },
+      {
+        "id": "984885921",
+        "title": "Kinokaori",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2026-06-04",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 264,
+        "playlistTitles": [
+          "Kinokaori"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/8d/d8/2e8dd83a-5110-598f-596c-54dd92382301/7333583379328.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/8d/d8/2e8dd83a-5110-598f-596c-54dd92382301/7333583379328.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0W84eVb2iHF1JVEjxMMqP3",
+          "apple": "https://music.apple.com/album/kinokaori-single/6770265988",
+          "deezer": "https://www.deezer.com/album/984885921"
+        }
+      },
+      {
+        "id": "984467211",
+        "title": "Dust",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2026-05-28",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 144,
+        "playlistTitles": [
+          "Dust"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/ff/d4/08ffd4c0-f156-fe8f-c9c2-1a874dfbdaac/7333583365628.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/ff/d4/08ffd4c0-f156-fe8f-c9c2-1a874dfbdaac/7333583365628.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/4QbrvzmdZsBP0xBc8YqM5G",
+          "apple": "https://music.apple.com/album/dust-single/6770107628",
+          "deezer": "https://www.deezer.com/album/984467211"
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273adfbc2e1b7af5a0a5b5b8691:sixyears",
+        "title": "Six Years",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2026-05-15",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 291,
+        "playlistTitles": [
+          "Six Years"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273adfbc2e1b7af5a0a5b5b8691",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273adfbc2e1b7af5a0a5b5b8691",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "936139801",
+        "title": "When The Light Was Slow",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2026-03-27",
+        "year": "2026",
+        "trackCount": 10,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 2203,
+        "playlistTitles": [
+          "Iteno",
+          "Anascaul"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/d5/c3/fad5c32c-84a1-0c83-d4fa-f8dc8708ade0/cover.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/d5/c3/fad5c32c-84a1-0c83-d4fa-f8dc8708ade0/cover.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/album/1rC5gXScefce9jAjdYc20t",
+          "apple": "https://music.apple.com/album/when-the-light-was-slow/1883778496",
+          "deezer": "https://www.deezer.com/album/936139801"
+        }
+      },
+      {
+        "id": "856587122",
+        "title": "Beside Yourself",
+        "artist": "Tanarouge",
+        "creditedArtists": "Sorekara, Tanarouge",
+        "releaseDate": "2025-12-05",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 465,
+        "playlistTitles": [
+          "Beside Yourself"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/55/92/9d5592be-167b-6efa-28ad-a75279d69688/cover.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/55/92/9d5592be-167b-6efa-28ad-a75279d69688/cover.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/1iMUXMeF2YvNS8Q6erxgok",
+          "apple": "https://music.apple.com/album/beside-yourself-single/1853028201",
+          "deezer": "https://www.deezer.com/album/856587122"
+        }
+      },
+      {
+        "id": "838507712",
+        "title": "Inch — Ardroe (April 25, 2025)",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2025-10-15",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 233,
+        "playlistTitles": [
+          "Inch — Ardroe (April 25, 2025)"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/34/0e/ce340e23-2fb5-cb36-8d88-302484fa2810/7300346547874.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/34/0e/ce340e23-2fb5-cb36-8d88-302484fa2810/7300346547874.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/1Is8QrHz8FLW1izniXH2gu",
+          "apple": "https://music.apple.com/album/inch-ardroe-april-25-2025-single/1846369025",
+          "deezer": "https://www.deezer.com/album/838507712"
+        }
+      },
+      {
+        "id": "itunes:1822516839",
+        "title": "That Time I Was Barefoot in the Garden, Walking Through the Daisies",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2025-06-24",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 192,
+        "playlistTitles": [
+          "That Time I Was Barefoot in the Garden, Walking Through the Daisies"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/2f/a2/1b2fa2f3-b1e2-cd60-ac98-6b7aa072706d/7300345104979.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/2f/a2/1b2fa2f3-b1e2-cd60-ac98-6b7aa072706d/7300345104979.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/5yr1NqTcxMLGC4jkPOBfeG",
+          "apple": "https://music.apple.com/album/that-time-i-was-barefoot-in-the-garden-walking/1822516839",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1813117501",
+        "title": "Selune",
+        "artist": "Tanarouge & Chihei Hatakeyama",
+        "creditedArtists": "Tanarouge, Chihei Hatakeyama",
+        "releaseDate": "2025-05-17",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 192,
+        "playlistTitles": [
+          "Selune"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/38/69/383869e4-2d30-40d4-0d3c-bbf1c4f7095b/7300344600809.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/38/69/383869e4-2d30-40d4-0d3c-bbf1c4f7095b/7300344600809.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0vOBLJ7ld0Z2wJdKiSUHj6",
+          "apple": "https://music.apple.com/album/selune/1813117501",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1791046567",
+        "title": "Selkie",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2025-01-17",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 190,
+        "playlistTitles": [
+          "Selkie"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e9/bd/67e9bd8b-56d2-7768-fbc9-10b5f5f81dc3/7300343424031.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e9/bd/67e9bd8b-56d2-7768-fbc9-10b5f5f81dc3/7300343424031.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2f2w9HgUNvl4pTlHV1M9w4",
+          "apple": "https://music.apple.com/album/selkie/1791046567",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1749947691",
+        "title": "01",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2024-06-14",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 482,
+        "playlistTitles": [
+          "01"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/0f/12/a90f127f-4c19-bd9d-ba01-908f353400e8/7300341222752.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/0f/12/a90f127f-4c19-bd9d-ba01-908f353400e8/7300341222752.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/73veBOBMhgrfH7sARkagfW",
+          "apple": "https://music.apple.com/album/01/1749947691",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1554960830",
+        "title": "CULT",
+        "artist": "Tauma",
+        "creditedArtists": "Tauma, Tanarouge",
+        "releaseDate": "2021-03-19",
+        "year": "2021",
+        "trackCount": 5,
+        "isSingle": false,
+        "isContribution": true,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": "Tardi",
+        "duration": 168,
+        "playlistTitles": [
+          "Tardi"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/f3/30/cbf3303c-53ce-ae89-a846-4d8b14ee50ab/196006172398.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/f3/30/cbf3303c-53ce-ae89-a846-4d8b14ee50ab/196006172398.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0PoFZ9CIZHvuU3th2jhOUC",
+          "apple": "https://music.apple.com/album/cult-ep/1554960830",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1552378425",
+        "title": "Coordinates",
+        "artist": "Tanarouge",
+        "creditedArtists": "Tanarouge",
+        "releaseDate": "2021-02-19",
+        "year": "2021",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 166,
+        "playlistTitles": [
+          "Coordinates"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/ad/61/e1ad611c-e366-0fbb-e851-26b446bef718/bcbeeb91-292c-444a-bec0-e48df7086bd5.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/ad/61/e1ad611c-e366-0fbb-e851-26b446bef718/bcbeeb91-292c-444a-bec0-e48df7086bd5.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3WCIZe7NojUVxds5WWWG1D",
+          "apple": "https://music.apple.com/album/coordinates/1552378425",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1538626510",
+        "title": "Fantasmi",
+        "artist": "Tauma & TANAROUGE",
+        "creditedArtists": "Tauma, Tanarouge",
+        "releaseDate": "2020-11-27",
+        "year": "2020",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 212,
+        "playlistTitles": [
+          "Fantasmi"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/45/b8/2745b8ed-5a36-6549-8d55-c57a27a2aa63/195497548941.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/45/b8/2745b8ed-5a36-6549-8d55-c57a27a2aa63/195497548941.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/111CVBSVMcPsAnTsWlf1zJ",
+          "apple": "https://music.apple.com/album/fantasmi/1538626510",
+          "deezer": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "tnrg",
+    "label": "TNRG",
+    "releases": [
+      {
+        "id": "1001281071",
+        "title": "RADICI",
+        "artist": "Santissima Foresta in Fiamme",
+        "creditedArtists": "Santissima Foresta in Fiamme",
+        "releaseDate": "2026-06-19",
+        "year": "2026",
+        "trackCount": 5,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 1003,
+        "playlistTitles": [
+          "IMMORTALE",
+          "SENZA CUORE",
+          "GABBIA",
+          "AL CONTRARIO",
+          "LASTRE DI PIETRA"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/9171b53a09202206978cab5a7081fa35/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/9171b53a09202206978cab5a7081fa35/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/album/6oAu2vAPt3wT6haBRLKUAX",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/1001281071"
+        }
+      },
+      {
+        "id": "944073621",
+        "title": "GABBIA",
+        "artist": "Santissima Foresta in Fiamme",
+        "creditedArtists": "Santissima Foresta in Fiamme",
+        "releaseDate": "2026-04-03",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 180,
+        "playlistTitles": [
+          "GABBIA"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/039199dcbefee0f3feb104cf975b8d89/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/039199dcbefee0f3feb104cf975b8d89/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2Op0nUk01E9MzccET2zZPb",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/944073621"
+        }
+      },
+      {
+        "id": "914983411",
+        "title": "IMMORTALE",
+        "artist": "Santissima Foresta in Fiamme",
+        "creditedArtists": "Santissima Foresta in Fiamme",
+        "releaseDate": "2026-02-20",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 216,
+        "playlistTitles": [
+          "IMMORTALE"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/1fee982021b74cdf30c7e3c3d14f9cd7/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/1fee982021b74cdf30c7e3c3d14f9cd7/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/7n3HaSRm9pMioZ8BzZvEF6",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/914983411"
+        }
+      },
+      {
+        "id": "itunes:1858591858",
+        "title": "Sottopelle",
+        "artist": "SKA & TNRG",
+        "creditedArtists": "SKA, TNRG",
+        "releaseDate": "2025-12-19",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 167,
+        "playlistTitles": [
+          "Sottopelle"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/d8/c3/8dd8c3d2-d41e-7d39-832c-7bb97530afa9/199806641514.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/d8/c3/8dd8c3d2-d41e-7d39-832c-7bb97530afa9/199806641514.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/4TWoef8HG8T0AHeM2w1xp5",
+          "apple": "https://music.apple.com/album/sottopelle/1858591858",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1857603062",
+        "title": "Quando si aprono le porte",
+        "artist": "SKA",
+        "creditedArtists": "SKA, TNRG",
+        "releaseDate": "2025-12-12",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 174,
+        "playlistTitles": [
+          "Quando si aprono le porte"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/99/73/27997374-0f17-b71c-172b-a7f4c689f3b4/199806618516.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/99/73/27997374-0f17-b71c-172b-a7f4c689f3b4/199806618516.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0AO7FTJQ10UdJikrYJsHqH",
+          "apple": "https://music.apple.com/album/quando-si-aprono-le-porte/1857603062",
+          "deezer": null
+        }
+      },
+      {
+        "id": "804987031",
+        "title": "DA SOLO",
+        "artist": "ESSEOTTO",
+        "creditedArtists": "ESSEOTTO, TNRG",
+        "releaseDate": "2025-09-12",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 165,
+        "playlistTitles": [
+          "DA SOLO"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/c2/a4/3ac2a461-a51f-1196-8bcb-caa6f96508ab/199538554977.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/c2/a4/3ac2a461-a51f-1196-8bcb-caa6f96508ab/199538554977.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/35YsaRZxsXDDHAfJw38xwa",
+          "apple": "https://music.apple.com/album/da-solo-single/1833282785",
+          "deezer": "https://www.deezer.com/album/804987031"
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273c0d3aa710794f43e0be22e38:cuorematto",
+        "title": "Cuore Matto",
+        "artist": "TNRG",
+        "creditedArtists": "TNRG",
+        "releaseDate": "2025-07-29",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 163,
+        "playlistTitles": [
+          "Cuore Matto"
+        ],
+        "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273c0d3aa710794f43e0be22e38",
+        "artworkFull": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273c0d3aa710794f43e0be22e38",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1825332818",
+        "title": "Che pensi di me",
+        "artist": "SKA, ESSEOTTO & TNRG",
+        "creditedArtists": "SKA, ESSEOTTO, TNRG",
+        "releaseDate": "2025-07-25",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 228,
+        "playlistTitles": [
+          "Che pensi di me"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/52/36/e3523669-aeb4-ad52-604b-9073cba8e6a9/199538173789.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/52/36/e3523669-aeb4-ad52-604b-9073cba8e6a9/199538173789.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0Z8acYpw4MKSF8EwQMStli",
+          "apple": "https://music.apple.com/album/che-pensi-di-me/1825332818",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1803404019",
+        "title": "Unica Scusa",
+        "artist": "MAGENTA FLORA & TANAROUGE",
+        "creditedArtists": "MAGENTA FLORA, Tanarouge",
+        "releaseDate": "2025-03-28",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 110,
+        "playlistTitles": [
+          "Unica Scusa"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/24/45/8f24451a-35bb-e17f-da50-389f2d7d9e43/artwork.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/24/45/8f24451a-35bb-e17f-da50-389f2d7d9e43/artwork.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/4v1Y7ML9UQzGtTKI9fTeeh",
+          "apple": "https://music.apple.com/album/unica-scusa/1803404019",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1732487132",
+        "title": "Serrande",
+        "artist": "Floral Grin, MAGENTA FLORA & TANAROUGE",
+        "creditedArtists": "Floral Grin, MAGENTA FLORA, Tanarouge",
+        "releaseDate": "2024-03-15",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 153,
+        "playlistTitles": [
+          "Serrande"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/e0/1d/04e01d95-66b2-a360-f53e-e883ae693e96/8447053082973.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/e0/1d/04e01d95-66b2-a360-f53e-e883ae693e96/8447053082973.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3QuciLBUYHVjBul5dUyc8Y",
+          "apple": "https://music.apple.com/album/serrande/1732487132",
+          "deezer": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "produced",
+    "label": "Works",
+    "releases": [
+      {
+        "id": "1036605092",
+        "title": "Those Who Watch",
+        "artist": "Sorekara",
+        "creditedArtists": "Sorekara, Other Planes, Yonatan Ayal, Chihei Hatakeyama",
+        "releaseDate": "2026-08-07",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 216,
+        "playlistTitles": [
+          "Those Who Watch"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/9e24b89962bd032c4766d635355da505/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/9e24b89962bd032c4766d635355da505/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2R4UqbFM2ALEfsaf258Zwx",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/1036605092"
+        }
+      },
+      {
+        "id": "1025546802",
+        "title": "Haar",
+        "artist": "Sorekara",
+        "creditedArtists": "Sorekara, Chihei Hatakeyama, Aspen Heights, Rippling",
+        "releaseDate": "2026-07-24",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 163,
+        "playlistTitles": [
+          "Haar"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/c63c345758a988ee4185a558f019cdec/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/c63c345758a988ee4185a558f019cdec/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3n60fjBlUHWCPACMUS66MG",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/1025546802"
+        }
+      },
+      {
+        "id": "939032521",
+        "title": "schiudersi",
+        "artist": "Lane Chérit",
+        "creditedArtists": "Lane Chérit",
+        "releaseDate": "2026-03-27",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 269,
+        "playlistTitles": [
+          "schiudersi"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/63/97/c663979f-15e8-9871-e953-3449a71e575d/5026854890302.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/63/97/c663979f-15e8-9871-e953-3449a71e575d/5026854890302.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/1sKxke1oNQUiPTCPDaVDgS",
+          "apple": "https://music.apple.com/album/schiudersi-single/1884865456",
+          "deezer": "https://www.deezer.com/album/939032521"
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273e88c02d52451bdea172b1d3b:cioccolatini",
+        "title": "Cioccolatini",
+        "artist": "SKA",
+        "creditedArtists": "SKA",
+        "releaseDate": "2026-02-06",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 151,
+        "playlistTitles": [
+          "Cioccolatini"
+        ],
+        "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273e88c02d52451bdea172b1d3b",
+        "artworkFull": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273e88c02d52451bdea172b1d3b",
+        "links": {
+          "spotify": "https://open.spotify.com/track/28gfqkzXkwQaS3PzjFGeva",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "880281232",
+        "title": "fuoco nel campo di ranuncoli gialli",
+        "artist": "Lane Chérit",
+        "creditedArtists": "Lane Chérit",
+        "releaseDate": "2026-01-01",
+        "year": "2026",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 248,
+        "playlistTitles": [
+          "fuoco nel campo di ranuncoli gialli"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/37/4a/fa374a8c-2305-08ee-5ea7-aa126c3c70c9/5026854370149.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/37/4a/fa374a8c-2305-08ee-5ea7-aa126c3c70c9/5026854370149.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/6E8fkVuDPr1eyFpz0oBsUU",
+          "apple": "https://music.apple.com/album/fuoco-nel-campo-di-ranuncoli-gialli-single/1862514896",
+          "deezer": "https://www.deezer.com/album/880281232"
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273dbc84e84d00cafc4efc8df5d:oxi",
+        "title": "OXI",
+        "artist": "Caio Puto",
+        "creditedArtists": "Caio Puto, Rippo, sickgios",
+        "releaseDate": "2025-12-19",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 228,
+        "playlistTitles": [
+          "OXI"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273dbc84e84d00cafc4efc8df5d",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273dbc84e84d00cafc4efc8df5d",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2cLoN1WuBbOnB6ekFWoaEc",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1852882998",
+        "title": "Liminal",
+        "artist": "Sorekara",
+        "creditedArtists": "Sorekara",
+        "releaseDate": "2025-11-28",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 229,
+        "playlistTitles": [
+          "Liminal"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/4b/6b/fe4b6bdc-57b7-36dd-e786-b87c5ca83507/cover.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/4b/6b/fe4b6bdc-57b7-36dd-e786-b87c5ca83507/cover.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/63CI2rNb1K77Lck1rQC87B",
+          "apple": "https://music.apple.com/album/liminal/1852882998",
+          "deezer": null
+        }
+      },
+      {
+        "id": "839303902",
+        "title": "il giorno in cui pianse il sole",
+        "artist": "Lane Chérit",
+        "creditedArtists": "Lane Chérit",
+        "releaseDate": "2025-10-31",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 242,
+        "playlistTitles": [
+          "il giorno in cui pianse il sole"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/81/d8/1381d83c-3722-9409-7311-fa492fb5ac04/5026854130026.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/81/d8/1381d83c-3722-9409-7311-fa492fb5ac04/5026854130026.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3WF7nEthHBFi0QaL7PEDXV",
+          "apple": "https://music.apple.com/album/il-giorno-in-cui-pianse-il-sole-single/1846670344",
+          "deezer": "https://www.deezer.com/album/839303902"
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273b8ac4adfdf7231991bfcd18c:rhemi",
+        "title": "Rhemi",
+        "artist": "Sorekara",
+        "creditedArtists": "Sorekara, Kazuma Okabayashi",
+        "releaseDate": "2025-09-26",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 208,
+        "playlistTitles": [
+          "Rhemi"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273b8ac4adfdf7231991bfcd18c",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273b8ac4adfdf7231991bfcd18c",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2732c94732cf015d2e988301369:critico",
+        "title": "Critico",
+        "artist": "SKA",
+        "creditedArtists": "SKA, Rippo, Caio Puto, Littleh",
+        "releaseDate": "2025-05-02",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 186,
+        "playlistTitles": [
+          "Critico"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2732c94732cf015d2e988301369",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2732c94732cf015d2e988301369",
+        "links": {
+          "spotify": "https://open.spotify.com/track/72WXXsMMZObcrpepNjPAqU",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1797831878",
+        "title": "Bianco",
+        "artist": "SKA",
+        "creditedArtists": "SKA",
+        "releaseDate": "2025-03-21",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 204,
+        "playlistTitles": [
+          "Bianco"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/2c/20/c52c20ab-33c5-259c-28f4-ed0d4fd9716d/199066900918.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/2c/20/c52c20ab-33c5-259c-28f4-ed0d4fd9716d/199066900918.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/6tetgI14KGUh5T5yrpBZMn",
+          "apple": "https://music.apple.com/album/bianco/1797831878",
+          "deezer": null
+        }
+      },
+      {
+        "id": "710780171",
+        "title": "Marrakech",
+        "artist": "Laguna Cristallo",
+        "creditedArtists": "Laguna Cristallo",
+        "releaseDate": "2025-02-21",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 216,
+        "playlistTitles": [
+          "Marrakech"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/57/d9/4157d9c0-2925-6d61-d8a6-a0e7666db75a/7300343679592.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/57/d9/4157d9c0-2925-6d61-d8a6-a0e7666db75a/7300343679592.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/7siENt9xwNwFqn2aIZ5RKJ",
+          "apple": "https://music.apple.com/album/marrakech-single/1795471420",
+          "deezer": "https://www.deezer.com/album/710780171"
+        }
+      },
+      {
+        "id": "697331651",
+        "title": "NOME",
+        "artist": "Nicol",
+        "creditedArtists": "NICOL",
+        "releaseDate": "2025-01-28",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 161,
+        "playlistTitles": [
+          "NOME"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/1c/41/f61c4182-b7fc-87c2-c67b-67471d326e2f/196872814224.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/1c/41/f61c4182-b7fc-87c2-c67b-67471d326e2f/196872814224.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/6kRVdN1n7GDjn7pF1U4oB4",
+          "apple": "https://music.apple.com/album/nome-single/1790398748",
+          "deezer": "https://www.deezer.com/album/697331651"
+        }
+      },
+      {
+        "id": "itunes:1789246438",
+        "title": "sull'orlo di fallire",
+        "artist": "MAGENTA FLORA",
+        "creditedArtists": "MAGENTA FLORA",
+        "releaseDate": "2025-01-17",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 114,
+        "playlistTitles": [
+          "sull'orlo di fallire"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/04/35/3b043516-4a6b-59ee-3190-088f353ed277/artwork.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/04/35/3b043516-4a6b-59ee-3190-088f353ed277/artwork.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/1Jj93oszGO1mLTFTJXrdwG",
+          "apple": "https://music.apple.com/album/sullorlo-di-fallire/1789246438",
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273c38ff5793f408de0808599c5:ungiornotreautunni",
+        "title": "Un giorno, tre autunni",
+        "artist": "SKA",
+        "creditedArtists": "SKA",
+        "releaseDate": "2025-01-17",
+        "year": "2025",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 130,
+        "playlistTitles": [
+          "Un giorno, tre autunni"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c38ff5793f408de0808599c5",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c38ff5793f408de0808599c5",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2mMboMIlsCtTmCSfsgmke3",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2736073e03e8b41e26c2dd4e99c:cirideremosu",
+        "title": "Ci Rideremo Su",
+        "artist": "MAGENTA FLORA",
+        "creditedArtists": "MAGENTA FLORA, Tanarouge",
+        "releaseDate": "2024-12-05",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 187,
+        "playlistTitles": [
+          "Ci Rideremo Su"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2736073e03e8b41e26c2dd4e99c",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2736073e03e8b41e26c2dd4e99c",
+        "links": {
+          "spotify": "https://open.spotify.com/track/1CQgIOx78iQeRmsOsQAKxb",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b27325a982ff75aeb0cb60985a03:shaboo",
+        "title": "Il Mercante Di Venezia",
+        "artist": "Roy Raheem",
+        "creditedArtists": "Roy Raheem",
+        "releaseDate": "2024-10-18",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": true,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": "Shaboo",
+        "duration": 202,
+        "playlistTitles": [
+          "Shaboo"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c060913837d47a9617bb8e74",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c060913837d47a9617bb8e74",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3cqDLWOgGLPZzb69TUbini",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273aad0cd9b4753c6ada82362bf:olgastrae47",
+        "title": "olgastraße 47",
+        "artist": "MAGENTA FLORA",
+        "creditedArtists": "MAGENTA FLORA",
+        "releaseDate": "2024-09-27",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 153,
+        "playlistTitles": [
+          "olgastraße 47"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273aad0cd9b4753c6ada82362bf",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273aad0cd9b4753c6ada82362bf",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3Ny5yJ34mz67OaNV32nxmM",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b27315e1a57f2c476dbd956e660f:brava",
+        "title": "BRAVA",
+        "artist": "Settembre28",
+        "creditedArtists": "Settembre28",
+        "releaseDate": "2024-07-26",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 180,
+        "playlistTitles": [
+          "BRAVA"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27315e1a57f2c476dbd956e660f",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27315e1a57f2c476dbd956e660f",
+        "links": {
+          "spotify": "https://open.spotify.com/track/67v2VDC4a6qXl1MLDZVigw",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1749059481",
+        "title": "TRE PASSI",
+        "artist": "SKA",
+        "creditedArtists": "SKA",
+        "releaseDate": "2024-06-21",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 197,
+        "playlistTitles": [
+          "TRE PASSI"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/46/6d/60466d07-d33c-214b-7fc1-55827b17f25a/198588208274.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/46/6d/60466d07-d33c-214b-7fc1-55827b17f25a/198588208274.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/6Im8IPKFNw5GnqBEnB8mAm",
+          "apple": "https://music.apple.com/album/tre-passi/1749059481",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1736230096",
+        "title": "Traffico Moderno",
+        "artist": "Zaite",
+        "creditedArtists": "Zaite",
+        "releaseDate": "2024-03-29",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 150,
+        "playlistTitles": [
+          "Traffico Moderno"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/45/de/ce45de9e-1f43-78c2-a216-3381858763a4/085365655614.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/45/de/ce45de9e-1f43-78c2-a216-3381858763a4/085365655614.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0bMIpF2k9bNPXmGu8sLkd8",
+          "apple": "https://music.apple.com/album/traffico-moderno/1736230096",
+          "deezer": null
+        }
+      },
+      {
+        "id": "727216071",
+        "title": "Serrande",
+        "artist": "Magenta Flora",
+        "creditedArtists": "Floral Grin, MAGENTA FLORA, Tanarouge",
+        "releaseDate": "2024-03-15",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 152,
+        "playlistTitles": [
+          "Serrande"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/e0/1d/04e01d95-66b2-a360-f53e-e883ae693e96/8447053082973.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/e0/1d/04e01d95-66b2-a360-f53e-e883ae693e96/8447053082973.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3QuciLBUYHVjBul5dUyc8Y",
+          "apple": "https://music.apple.com/album/serrande-single/1732487132",
+          "deezer": "https://www.deezer.com/album/727216071"
+        }
+      },
+      {
+        "id": "itunes:1731280377",
+        "title": "MANUALE DEL PICCOLO INGRATO",
+        "artist": "Kalpa",
+        "creditedArtists": "Kalpa",
+        "releaseDate": "2024-03-08",
+        "year": "2024",
+        "trackCount": 11,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 177,
+        "playlistTitles": [
+          "DOVREI ALZARMI",
+          "QUANTE STORIE"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/5f/5f/275f5f73-98f3-6f18-5599-9aab4c81ce51/24UMGIM16000.rgb.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/5f/5f/275f5f73-98f3-6f18-5599-9aab4c81ce51/24UMGIM16000.rgb.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": null,
+          "apple": "https://music.apple.com/album/manuale-del-piccolo-ingrato/1731280377",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1725014115",
+        "title": "Mollami",
+        "artist": "Zaite",
+        "creditedArtists": "Zaite",
+        "releaseDate": "2024-01-19",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 147,
+        "playlistTitles": [
+          "Mollami"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/f4/8e/85f48e33-3aa1-2a6c-9c54-cde7c8562c13/197338103470.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/f4/8e/85f48e33-3aa1-2a6c-9c54-cde7c8562c13/197338103470.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2TMf1PGuVcg0NEn1z3QDez",
+          "apple": "https://music.apple.com/album/mollami/1725014115",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1722564706",
+        "title": "VERDE SALVIA",
+        "artist": "Kalpa",
+        "creditedArtists": "Kalpa",
+        "releaseDate": "2024-01-12",
+        "year": "2024",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 212,
+        "playlistTitles": [
+          "VERDE SALVIA"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/3c/70/db3c70c0-4ac2-e912-7fb8-1cf0137d24f5/23UM1IM67350.rgb.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/3c/70/db3c70c0-4ac2-e912-7fb8-1cf0137d24f5/23UM1IM67350.rgb.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2T4uJfwiXvd3pC1KEkAxhG",
+          "apple": "https://music.apple.com/album/verde-salvia/1722564706",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1715495868",
+        "title": "COLORE SENTIMENTO",
+        "artist": "EUFORIA",
+        "creditedArtists": "EUFORIA",
+        "releaseDate": "2023-11-24",
+        "year": "2023",
+        "trackCount": 7,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 225,
+        "playlistTitles": [
+          "COLORE SENTIMENTO",
+          "GIORNI DI SOLE",
+          "PARADISO",
+          "ARCOBALENO",
+          "E TU CHIUDI GLI OCCHI"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/43/1f/51431f5c-7614-0d7f-9229-1110d02971df/197190382938.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/43/1f/51431f5c-7614-0d7f-9229-1110d02971df/197190382938.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": null,
+          "apple": "https://music.apple.com/album/colore-sentimento/1715495868",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1711869016",
+        "title": "Fantasmi",
+        "artist": "Zaite",
+        "creditedArtists": "Zaite",
+        "releaseDate": "2023-10-27",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 171,
+        "playlistTitles": [
+          "Fantasmi"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a3/b7/62/a3b762b5-36d0-e153-4005-6d3b34b5eba2/197338290774.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a3/b7/62/a3b762b5-36d0-e153-4005-6d3b34b5eba2/197338290774.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2hr3kTDTIGq8WlbqEXhSEx",
+          "apple": "https://music.apple.com/album/fantasmi/1711869016",
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273aa9c60a460b708f611a64d1d:carafelicit",
+        "title": "CARA FELICITÀ",
+        "artist": "Settembre28",
+        "creditedArtists": "Settembre28",
+        "releaseDate": "2023-09-28",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 162,
+        "playlistTitles": [
+          "CARA FELICITÀ"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273aa9c60a460b708f611a64d1d",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273aa9c60a460b708f611a64d1d",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3MpJ0Ha1yfhyK3spob4KW8",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2736288fc7085eea316e4aefd19:stronzacome",
+        "title": "STRONZA COME",
+        "artist": "Settembre28",
+        "creditedArtists": "Settembre28",
+        "releaseDate": "2023-06-30",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 184,
+        "playlistTitles": [
+          "STRONZA COME"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2736288fc7085eea316e4aefd19",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2736288fc7085eea316e4aefd19",
+        "links": {
+          "spotify": "https://open.spotify.com/track/00F9O6G6rbLnDxQ1xiEJXI",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b27369772505d747feb6f25d3264:ognunohailsuosoffrire",
+        "title": "OGNUNO HA IL SUO SOFFRIRE",
+        "artist": "EUFORIA",
+        "creditedArtists": "EUFORIA",
+        "releaseDate": "2023-06-30",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 157,
+        "playlistTitles": [
+          "OGNUNO HA IL SUO SOFFRIRE"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27369772505d747feb6f25d3264",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27369772505d747feb6f25d3264",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2bfNNADdXsPux9gFEaVhIz",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273c51b0d08f3d1d704287b4f33:ognunohailsuosoffrire",
+        "title": "OGNUNO HA IL SUO SOFFRIRE",
+        "artist": "EUFORIA",
+        "creditedArtists": "EUFORIA",
+        "releaseDate": "2023-06-16",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 157,
+        "playlistTitles": [
+          "OGNUNO HA IL SUO SOFFRIRE"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c51b0d08f3d1d704287b4f33",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c51b0d08f3d1d704287b4f33",
+        "links": {
+          "spotify": "https://open.spotify.com/track/65mjaX84ydV7a7yiR1Yhtk",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "444701095",
+        "title": "OUT OF CONEY ISLAND",
+        "artist": "Tommi Fiol",
+        "creditedArtists": "Tommi Fiol",
+        "releaseDate": "2023-06-02",
+        "year": "2023",
+        "trackCount": 6,
+        "isSingle": false,
+        "isContribution": true,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": "Stropicciato",
+        "duration": 174,
+        "playlistTitles": [
+          "Stropicciato"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/c6cf036bc40805876916f3fbdaa0a3da/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/c6cf036bc40805876916f3fbdaa0a3da/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/6tkmtjllYWmR4wNXxx8v24",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/444701095"
+        }
+      },
+      {
+        "id": "434900517",
+        "title": "The Cheesemaker",
+        "artist": "Aj Quent",
+        "creditedArtists": "Aj Quent",
+        "releaseDate": "2023-05-12",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 215,
+        "playlistTitles": [
+          "The Cheesemaker"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/e7fe11128d14c0695c3f35688949866f/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/e7fe11128d14c0695c3f35688949866f/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/7wi8juqJQcNSA6vfKOjftv",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/434900517"
+        }
+      },
+      {
+        "id": "434282097",
+        "title": "Stropicciato",
+        "artist": "Tommi Fiol",
+        "creditedArtists": "Tommi Fiol",
+        "releaseDate": "2023-05-05",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 174,
+        "playlistTitles": [
+          "Stropicciato"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/c105ffb382cd9cf55c107607b63e4317/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/c105ffb382cd9cf55c107607b63e4317/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/6tkmtjllYWmR4wNXxx8v24",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/434282097"
+        }
+      },
+      {
+        "id": "itunes:1671219965",
+        "title": "SEMPRE IN RITARDO",
+        "artist": "EUFORIA",
+        "creditedArtists": "EUFORIA",
+        "releaseDate": "2023-03-03",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 165,
+        "playlistTitles": [
+          "SEMPRE IN RITARDO"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/0e/31/2a0e31fc-001c-1bd5-1ada-66357da0ddf3/197188138875.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/0e/31/2a0e31fc-001c-1bd5-1ada-66357da0ddf3/197188138875.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/049TEZHFT4HqSkRk8Lyblz",
+          "apple": "https://music.apple.com/album/sempre-in-ritardo/1671219965",
+          "deezer": null
+        }
+      },
+      {
+        "id": "390320077",
+        "title": "Take Me Back 2 When We Met",
+        "artist": "Aj Quent",
+        "creditedArtists": "Aj Quent",
+        "releaseDate": "2023-01-20",
+        "year": "2023",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 221,
+        "playlistTitles": [
+          "Take Me Back 2 When We Met"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/80/e3/8e/80e38e9b-4bbf-3fd7-ec9e-6d5de1996e10/c5f78234-f8e0-458a-b23f-7844e56688c2.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/80/e3/8e/80e38e9b-4bbf-3fd7-ec9e-6d5de1996e10/c5f78234-f8e0-458a-b23f-7844e56688c2.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2NkUK4rk3birHJozrgkksg",
+          "apple": "https://music.apple.com/album/take-me-back-2-when-we-met-single/1661509436",
+          "deezer": "https://www.deezer.com/album/390320077"
+        }
+      },
+      {
+        "id": "378176997",
+        "title": "Nuovi Fossili",
+        "artist": "Motivi Per Litigare",
+        "creditedArtists": "Motivi Per Litigare",
+        "releaseDate": "2022-12-02",
+        "year": "2022",
+        "trackCount": 10,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 2114,
+        "playlistTitles": [
+          "Le Mie Tasche",
+          "42",
+          "Mandalorian",
+          "Un Euro",
+          "Poli Opposti",
+          "Zero Ripensamenti",
+          "Niente Di Speciale"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/baa115db11b7f78fc82382ca5bec1bd1/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/baa115db11b7f78fc82382ca5bec1bd1/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/album/7tTef2o1DO9CQ2McWedq74",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/378176997"
+        }
+      },
+      {
+        "id": "356832037",
+        "title": "Vota me",
+        "artist": "Aj Quent",
+        "creditedArtists": "Aj Quent",
+        "releaseDate": "2022-09-25",
+        "year": "2022",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 175,
+        "playlistTitles": [
+          "Vota me"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a7/c6/36/a7c63610-e2f1-d483-8e3e-b264df32b4c3/f21a0790-519d-4aec-add3-0a543f9c748a.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a7/c6/36/a7c63610-e2f1-d483-8e3e-b264df32b4c3/f21a0790-519d-4aec-add3-0a543f9c748a.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/1VhYOXARaJXRYkmHMkcxs5",
+          "apple": "https://music.apple.com/album/vota-me-single/1645330388",
+          "deezer": "https://www.deezer.com/album/356832037"
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273b1397c76c44ae8dbbbfa1024:fanculo",
+        "title": "FANCULO",
+        "artist": "EUFORIA",
+        "creditedArtists": "EUFORIA",
+        "releaseDate": "2022-09-23",
+        "year": "2022",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 216,
+        "playlistTitles": [
+          "FANCULO"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273b1397c76c44ae8dbbbfa1024",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273b1397c76c44ae8dbbbfa1024",
+        "links": {
+          "spotify": "https://open.spotify.com/track/4UECYUhHWvcCVlurcBHjNi",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1631608122",
+        "title": "DOVE VUOI CHE SIA",
+        "artist": "EUFORIA",
+        "creditedArtists": "EUFORIA",
+        "releaseDate": "2022-07-08",
+        "year": "2022",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 208,
+        "playlistTitles": [
+          "DOVE VUOI CHE SIA"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/81/f4/4481f45e-236e-6682-bb28-0ce3703222cb/196925223515.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/81/f4/4481f45e-236e-6682-bb28-0ce3703222cb/196925223515.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0ZW5zLDwB5Tsc4Qqz2igIO",
+          "apple": "https://music.apple.com/album/dove-vuoi-che-sia/1631608122",
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2732a38efe35cf06bd149fa8d56:cambiare",
+        "title": "CAMBIARE",
+        "artist": "Giovaneeffe",
+        "creditedArtists": "Giovaneeffe",
+        "releaseDate": "2022-03-17",
+        "year": "2022",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 192,
+        "playlistTitles": [
+          "CAMBIARE"
+        ],
+        "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2732a38efe35cf06bd149fa8d56",
+        "artworkFull": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2732a38efe35cf06bd149fa8d56",
+        "links": {
+          "spotify": "https://open.spotify.com/track/7wHCRjFF5Ck8Rn8JRf5WCE",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273a0a7ab8c4b9ac68366109ed6:easylife",
+        "title": "Easy Life",
+        "artist": "Roy Raheem",
+        "creditedArtists": "Roy Raheem",
+        "releaseDate": "2022-02-25",
+        "year": "2022",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 131,
+        "playlistTitles": [
+          "Easy Life"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273a0a7ab8c4b9ac68366109ed6",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273a0a7ab8c4b9ac68366109ed6",
+        "links": {
+          "spotify": "https://open.spotify.com/track/5O1iYD1Wg7YDMwOnxR8l2r",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273938e95891cef92436c7d938c:fukushima",
+        "title": "Fukushima",
+        "artist": "Frammenti",
+        "creditedArtists": "Frammenti, Ocean Dreams",
+        "releaseDate": "2021-07-20",
+        "year": "2021",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 152,
+        "playlistTitles": [
+          "Fukushima"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273938e95891cef92436c7d938c",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273938e95891cef92436c7d938c",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2736c8e7db6bce5100dc345f50c:fukushima",
+        "title": "Fukushima",
+        "artist": "Frammenti",
+        "creditedArtists": "Frammenti, Ocean Dreams",
+        "releaseDate": "2021-06-30",
+        "year": "2021",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 152,
+        "playlistTitles": [
+          "Fukushima"
+        ],
+        "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2736c8e7db6bce5100dc345f50c",
+        "artworkFull": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2736c8e7db6bce5100dc345f50c",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2732b2d77cdeba47f870f61e091:easylife",
+        "title": "Easy Life",
+        "artist": "Roy Raheem",
+        "creditedArtists": "Roy Raheem",
+        "releaseDate": "2021-06-09",
+        "year": "2021",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 131,
+        "playlistTitles": [
+          "Easy Life"
+        ],
+        "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2732b2d77cdeba47f870f61e091",
+        "artworkFull": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2732b2d77cdeba47f870f61e091",
+        "links": {
+          "spotify": "https://open.spotify.com/track/1hykUXpvce95JUaKHQAbiQ",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2734e256166193aeed306f8aeef:ohvitamia",
+        "title": "Oh vita mia",
+        "artist": "Frammenti",
+        "creditedArtists": "Frammenti, Ocean Dreams",
+        "releaseDate": "2021-05-07",
+        "year": "2021",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 172,
+        "playlistTitles": [
+          "Oh vita mia"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2734e256166193aeed306f8aeef",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2734e256166193aeed306f8aeef",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1554960830",
+        "title": "CULT",
+        "artist": "Tauma",
+        "creditedArtists": "Tauma",
+        "releaseDate": "2021-03-19",
+        "year": "2021",
+        "trackCount": 5,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 162,
+        "playlistTitles": [
+          "America",
+          "Tardi"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/f3/30/cbf3303c-53ce-ae89-a846-4d8b14ee50ab/196006172398.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/f3/30/cbf3303c-53ce-ae89-a846-4d8b14ee50ab/196006172398.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": null,
+          "apple": "https://music.apple.com/album/cult-ep/1554960830",
+          "deezer": null
+        }
+      },
+      {
+        "id": "187257822",
+        "title": "D special 1.5",
+        "artist": "Zeeph",
+        "creditedArtists": "Zeeph",
+        "releaseDate": "2020-12-04",
+        "year": "2020",
+        "trackCount": 11,
+        "isSingle": false,
+        "isContribution": true,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": "Envie",
+        "duration": 173,
+        "playlistTitles": [
+          "Envie"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/ef8f6bca053922fc571efef73c4edfce/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/ef8f6bca053922fc571efef73c4edfce/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/7i1z75xsvPEVNxE6xXjMkw",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/187257822"
+        }
+      },
+      {
+        "id": "itunes:1531472054",
+        "title": "Call Me Now",
+        "artist": "Michael Calfan & INNA",
+        "creditedArtists": "Michael Calfan, INNA",
+        "releaseDate": "2020-10-09",
+        "year": "2020",
+        "trackCount": 2,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 147,
+        "playlistTitles": [
+          "Call Me Now"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/25/5f/e8255f5e-6410-3be6-d5bf-796cc825e5b0/190295139827.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/25/5f/e8255f5e-6410-3be6-d5bf-796cc825e5b0/190295139827.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/5ZSIKIjJtKnqT9lJcP6BvM",
+          "apple": "https://music.apple.com/album/call-me-now/1531472054",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1530608252",
+        "title": "Nouvelle Vague",
+        "artist": "Tauma",
+        "creditedArtists": "Tauma, Ocean Dreams",
+        "releaseDate": "2020-09-25",
+        "year": "2020",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 174,
+        "playlistTitles": [
+          "Nouvelle Vague"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/36/d1/d636d109-05f9-27b4-87f0-9da8be5b8139/195497196241.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/36/d1/d636d109-05f9-27b4-87f0-9da8be5b8139/195497196241.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2j2fMjUMud8qSEeM0PJEgh",
+          "apple": "https://music.apple.com/album/nouvelle-vague/1530608252",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1520004102",
+        "title": "Cult",
+        "artist": "Tauma",
+        "creditedArtists": "Tauma, Ocean Dreams",
+        "releaseDate": "2020-07-08",
+        "year": "2020",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 201,
+        "playlistTitles": [
+          "Cult"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/df/f0/12/dff0120f-934d-6107-fc8a-e2523cee967f/195081825663.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/df/f0/12/dff0120f-934d-6107-fc8a-e2523cee967f/195081825663.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/5gTgYWsbOIsb1Iq4gYRQ3Y",
+          "apple": "https://music.apple.com/album/cult/1520004102",
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1876686306",
+        "title": "Mi dicono cambia (Ocean Dreams Remix)",
+        "artist": "Frammenti",
+        "creditedArtists": "Frammenti, Ocean Dreams",
+        "releaseDate": "2020-06-02",
+        "year": "2020",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 399,
+        "playlistTitles": [
+          "Mi dicono cambia - Ocean Dreams Remix"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/1b/57/0b1b575f-8cfb-810f-7d18-23a6717ca307/8057158167309.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/1b/57/0b1b575f-8cfb-810f-7d18-23a6717ca307/8057158167309.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/2sCUcBpQ2NLVy3ky4Ms9PL",
+          "apple": "https://music.apple.com/album/mi-dicono-cambia-ocean-dreams-remix/1876686306",
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273d38d77d7d10bedbbc3c97caf:midiconocambia",
+        "title": "Mi dicono cambia",
+        "artist": "Frammenti",
+        "creditedArtists": "Frammenti",
+        "releaseDate": "2020-05-11",
+        "year": "2020",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 197,
+        "playlistTitles": [
+          "Mi dicono cambia"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273d38d77d7d10bedbbc3c97caf",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273d38d77d7d10bedbbc3c97caf",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273625ff87a87a299148fdc7a77:taxisorrideregiunarivincita",
+        "title": "Taxi - Sorridere è già una rivincita",
+        "artist": "Roy Raheem",
+        "creditedArtists": "Roy Raheem, Slim Gong",
+        "releaseDate": "2020-05-11",
+        "year": "2020",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 244,
+        "playlistTitles": [
+          "Taxi - Sorridere è già una rivincita"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273625ff87a87a299148fdc7a77",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273625ff87a87a299148fdc7a77",
+        "links": {
+          "spotify": "https://open.spotify.com/track/4N97rWq41fnfWn1dMdQAnS",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b27355efd1ccdaacc0a7189c8615:dinamismo",
+        "title": "Dinamismo",
+        "artist": "Ocean Dreams",
+        "creditedArtists": "Ocean Dreams",
+        "releaseDate": "2020-05-06",
+        "year": "2020",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 240,
+        "playlistTitles": [
+          "Dinamismo"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27355efd1ccdaacc0a7189c8615",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27355efd1ccdaacc0a7189c8615",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273f65c2eb13a009cec70cb034b:america",
+        "title": "America",
+        "artist": "Slim G",
+        "creditedArtists": "Slim G",
+        "releaseDate": "2019-12-27",
+        "year": "2019",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 162,
+        "playlistTitles": [
+          "America"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273f65c2eb13a009cec70cb034b",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273f65c2eb13a009cec70cb034b",
+        "links": {
+          "spotify": "https://open.spotify.com/track/69tNXfDcdZL80FmIvoEEDG",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b27330ef212031c4e36243a333c9:equilibrio",
+        "title": "Equilibrio",
+        "artist": "Dres",
+        "creditedArtists": "Dres, Zeeph",
+        "releaseDate": "2019-11-15",
+        "year": "2019",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 209,
+        "playlistTitles": [
+          "Equilibrio"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27330ef212031c4e36243a333c9",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27330ef212031c4e36243a333c9",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273c515711984ece4f470a9a858:grantorino",
+        "title": "Gran Torino",
+        "artist": "Dres",
+        "creditedArtists": "Dres",
+        "releaseDate": "2019-06-27",
+        "year": "2019",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 150,
+        "playlistTitles": [
+          "Gran Torino"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c515711984ece4f470a9a858",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273c515711984ece4f470a9a858",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b27365294454ba16d3153bd45f0a:loner",
+        "title": "LONER",
+        "artist": "JUMEX",
+        "creditedArtists": "JUMEX",
+        "releaseDate": "2019-06-07",
+        "year": "2019",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 178,
+        "playlistTitles": [
+          "LONER"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27365294454ba16d3153bd45f0a",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27365294454ba16d3153bd45f0a",
+        "links": {
+          "spotify": "https://open.spotify.com/track/6ajaQnVb2ig5hc42Gqxlqu",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1462425156",
+        "title": "Shogun",
+        "artist": "Roy Raheem",
+        "creditedArtists": "Roy Raheem",
+        "releaseDate": "2019-05-03",
+        "year": "2019",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 161,
+        "playlistTitles": [
+          "Shogun"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/88/8b/dc888bee-76dd-b4fa-f2d8-0dde0de29e16/cover.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/88/8b/dc888bee-76dd-b4fa-f2d8-0dde0de29e16/cover.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3jd6LHiZomziEtP58FxxXV",
+          "apple": "https://music.apple.com/album/shogun/1462425156",
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273222df09f4cc5ffecba8342fc:involo",
+        "title": "In volo",
+        "artist": "Dres",
+        "creditedArtists": "Dres",
+        "releaseDate": "2019-02-09",
+        "year": "2019",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 212,
+        "playlistTitles": [
+          "In volo"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273222df09f4cc5ffecba8342fc",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b273222df09f4cc5ffecba8342fc",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b27351929b4edb1ebf4e27250b86:touch",
+        "title": "Touch",
+        "artist": "Roy Raheem",
+        "creditedArtists": "Roy Raheem",
+        "releaseDate": "2019-02-08",
+        "year": "2019",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 135,
+        "playlistTitles": [
+          "Touch"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27351929b4edb1ebf4e27250b86",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27351929b4edb1ebf4e27250b86",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0OLhnOUiPI9O5UhCncDmbf",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "81115182",
+        "title": "Motivi Per Litigare",
+        "artist": "Motivi Per Litigare",
+        "creditedArtists": "Motivi Per Litigare",
+        "releaseDate": "2018-12-24",
+        "year": "2018",
+        "trackCount": 7,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 1311,
+        "playlistTitles": [
+          "La questione (bonus track)",
+          "Pieni di vuoto",
+          "Cosa credi?",
+          "Verità supposta",
+          "Vedere più in la",
+          "Rapina"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/72/46/f8/7246f813-1afd-4b15-d9db-d075ac532cb9/artwork.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/72/46/f8/7246f813-1afd-4b15-d9db-d075ac532cb9/artwork.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": null,
+          "apple": "https://music.apple.com/album/motivi-per-litigare/1445910761",
+          "deezer": "https://www.deezer.com/album/81115182"
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2733744ecf5858d2d464ad7341b:ilsoleelaluna",
+        "title": "Il sole e la luna",
+        "artist": "Dres",
+        "creditedArtists": "Dres",
+        "releaseDate": "2018-12-15",
+        "year": "2018",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 215,
+        "playlistTitles": [
+          "Il sole e la luna"
+        ],
+        "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2733744ecf5858d2d464ad7341b",
+        "artworkFull": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b2733744ecf5858d2d464ad7341b",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "351315187",
+        "title": "TRAPPED",
+        "artist": "Jumex",
+        "creditedArtists": "JUMEX",
+        "releaseDate": "2018-11-30",
+        "year": "2018",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 111,
+        "playlistTitles": [
+          "TRAPPED"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/57/ae/0557aef4-7747-4c6b-bedd-e39c2e1e14db/artwork.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/57/ae/0557aef4-7747-4c6b-bedd-e39c2e1e14db/artwork.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/31Wvp2eP0Iviyudgzj5K0h",
+          "apple": "https://music.apple.com/album/trapped-ep/6802946635",
+          "deezer": "https://www.deezer.com/album/351315187"
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b273ab68cb9a905107fb91256411:loveisadrug",
+        "title": "Love Is a Drug",
+        "artist": "Papithbk",
+        "creditedArtists": "Papithbk",
+        "releaseDate": "2018-10-24",
+        "year": "2018",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 100,
+        "playlistTitles": [
+          "Love Is a Drug"
+        ],
+        "artwork": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273ab68cb9a905107fb91256411",
+        "artworkFull": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273ab68cb9a905107fb91256411",
+        "links": {
+          "spotify": "https://open.spotify.com/track/0Q06s7TNQH8irO2sfvuFnn",
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b27346d0a7edf3017464c41c6093:pianetax",
+        "title": "Pianeta X",
+        "artist": "Slim G",
+        "creditedArtists": "Slim G",
+        "releaseDate": "2018-09-25",
+        "year": "2018",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 177,
+        "playlistTitles": [
+          "Pianeta X"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27346d0a7edf3017464c41c6093",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b27346d0a7edf3017464c41c6093",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "spotify-art:ab67616d0000b2734d0bad860cb327a3d8e3b146:apezzi",
+        "title": "A Pezzi",
+        "artist": "Slim G",
+        "creditedArtists": "Slim G",
+        "releaseDate": "2018-02-09",
+        "year": "2018",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": true,
+        "unavailable": true,
+        "trackTitle": null,
+        "duration": 185,
+        "playlistTitles": [
+          "A Pezzi"
+        ],
+        "artwork": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2734d0bad860cb327a3d8e3b146",
+        "artworkFull": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000b2734d0bad860cb327a3d8e3b146",
+        "links": {
+          "spotify": null,
+          "apple": null,
+          "deezer": null
+        }
+      },
+      {
+        "id": "itunes:1447818907",
+        "title": "Mentre Sali",
+        "artist": "Modo",
+        "creditedArtists": "Modo",
+        "releaseDate": "2017-10-20",
+        "year": "2017",
+        "trackCount": 4,
+        "isSingle": false,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 281,
+        "playlistTitles": [
+          "Mentre sali - prod. Ocean Dreams"
+        ],
+        "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/74/5e/fa745e77-4b38-6a6f-a9fa-1ada502dd4b0/e4a00147-ae75-41bd-899a-9f083a7d5d6c.jpg/1200x1200bb.jpg",
+        "artworkFull": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fa/74/5e/fa745e77-4b38-6a6f-a9fa-1ada502dd4b0/e4a00147-ae75-41bd-899a-9f083a7d5d6c.jpg/3000x3000bb.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/3LehgEST2ftxfCXYvuE6l2",
+          "apple": "https://music.apple.com/album/mentre-sali-ep/1447818907",
+          "deezer": null
+        }
+      },
+      {
+        "id": "568370131",
+        "title": "A Deeper Love",
+        "artist": "Misteralf",
+        "creditedArtists": "Misteralf, Mimi",
+        "releaseDate": "2016-11-25",
+        "year": "2016",
+        "trackCount": 1,
+        "isSingle": true,
+        "isContribution": false,
+        "spotifyOnly": false,
+        "unavailable": false,
+        "trackTitle": null,
+        "duration": 305,
+        "playlistTitles": [
+          "A Deeper Love"
+        ],
+        "artwork": "https://cdn-images.dzcdn.net/images/cover/e4b532fc35f5c67eb1696f8ed4476672/1000x1000-000000-80-0-0.jpg",
+        "artworkFull": "https://cdn-images.dzcdn.net/images/cover/e4b532fc35f5c67eb1696f8ed4476672/1000x1000-000000-80-0-0.jpg",
+        "links": {
+          "spotify": "https://open.spotify.com/track/74q8UNfDrDEQvrba4iWt0G",
+          "apple": null,
+          "deezer": "https://www.deezer.com/album/568370131"
+        }
+      }
+    ]
+  }
+]
