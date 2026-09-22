@@ -53,22 +53,24 @@ function Header() {
     <header id="header" className={onVisualizer ? 'visualizer-open' : ''}>
       {/* Desktop menu */}
       <div className="menu">
-        <Link to="/" className="artist-name">⊙ Tanarouge</Link>
-        <Link to="/home" data-page="home" data-title="Home" className="home-link">Home</Link>
-        <Link to="/music" data-page="music" data-title="Music">Music</Link>
-        <a href="https://circletoughts.notion.site/circle-thoughts-6159fd0576e94df9bed51900f499239b" target="_blank" rel="noopener noreferrer">Blog</a>
-        <Link to="/live" data-page="live" data-title="Live">Live</Link>
-        <Link to="/info" data-page="info" data-title="Info">Info</Link>
+        <div className="nav-links">
+          <Link to="/" className="artist-name">⊙ Tanarouge</Link>
+          <Link to="/home" data-page="home" data-title="Home" className="home-link">Home</Link>
+          <Link to="/music" data-page="music" data-title="Music">Music</Link>
+          <a href="https://circletoughts.notion.site/circle-thoughts-6159fd0576e94df9bed51900f499239b" target="_blank" rel="noopener noreferrer">Blog</a>
+          <Link to="/live" data-page="live" data-title="Live">Live</Link>
+          <Link to="/info" data-page="info" data-title="Info">Info</Link>
+        </div>
         <div className="social" aria-label="Social media links">
           <a href="https://instagram.com/tanarouge" target="_blank" rel="noopener noreferrer"><img src="assets/icons/instagram.svg" alt="Instagram" /></a>
           <a href="https://x.com/tanarouge" target="_blank" rel="noopener noreferrer"><img src="assets/icons/x.svg" alt="X" /></a>
           <SocialDropdown icon="assets/icons/spotify.svg" alt="Spotify" profiles={SPOTIFY_PROFILES} />
           <a href="https://music.amazon.com/artists/B08ZJT72C9/tanarouge" target="_blank" rel="noopener noreferrer"><img src="assets/icons/amazonmusic.svg" alt="Amazon Music" /></a>
           <SocialDropdown icon="assets/icons/apple-music.svg" alt="Apple Music" profiles={APPLE_PROFILES} />
+          <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme">
+            ⊙
+          </button>
         </div>
-        <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme">
-          ⊙
-        </button>
       </div>
 
       {/* Mobile header */}

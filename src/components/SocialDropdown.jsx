@@ -6,6 +6,29 @@ import React, { useState, useRef, useEffect } from 'react';
 function SocialDropdown({ icon, alt, profiles }) {
   const [open, setOpen] = useState(false);
   const wrapperRef = useRef(null);
+  const closeTimer = useRef(null);
+
+  /* Closing on mouseleave alone is unforgiving: a pointer drifting slightly
+     off the icon on its way to the menu would dismiss it. Wait a moment, and
+     cancel that if the pointer comes back. */
+  const cancelClose = () => {
+    if (closeTimer.current) {
+      clearTimeout(closeTimer.current);
+      closeTimer.current = null;
+    }
+  };
+
+  const openNow = () => {
+    cancelClose();
+    setOpen(true);
+  };
+
+  const closeSoon = () => {
+    cancelClose();
+    closeTimer.current = setTimeout(() => setOpen(false), 180);
+  };
+
+  useEffect(() => cancelClose, []);
 
   // Click outside closes the menu (mobile has no hover to fall back on)
   useEffect(() => {
@@ -30,8 +53,8 @@ function SocialDropdown({ icon, alt, profiles }) {
     <div
       className={`social-dropdown${open ? ' open' : ''}`}
       ref={wrapperRef}
-      onMouseEnter={() => setOpen(true)}
-      onMouseLeave={() => setOpen(false)}
+      onMouseEnter={openNow}
+      onMouseLeave={closeSoon}
     >
       <button
         type="button"
@@ -39,7 +62,10 @@ function SocialDropdown({ icon, alt, profiles }) {
         aria-haspopup="true"
         aria-expanded={open}
         aria-label={`${alt} profiles`}
-        onClick={() => setOpen(!open)}
+        onClick={() => {
+          cancelClose();
+          setOpen(!open);
+        }}
       >
         <img src={icon} alt={alt} />
       </button>
@@ -51,7 +77,10 @@ function SocialDropdown({ icon, alt, profiles }) {
             target="_blank"
             rel="noopener noreferrer"
             role="menuitem"
-            onClick={() => setOpen(false)}
+            onClick={() => {
+              cancelClose();
+              setOpen(false);
+            }}
           >
             {profile.name}
           </a>
