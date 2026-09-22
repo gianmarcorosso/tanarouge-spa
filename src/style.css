@@ -724,6 +724,21 @@ body.dark-mode .release-modal-links img {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
         gap: 1.2rem;
     }
+
+    /* Tiles are roughly half as wide here, so the caption has to come down
+       with them -- at the desktop size a long title fills the whole tile. */
+    .music-item-title {
+        font-size: 0.7rem;
+        letter-spacing: 0.02em;
+    }
+
+    .music-item-artist {
+        font-size: 0.62rem;
+    }
+
+    .music-item-year {
+        font-size: 0.7rem;
+    }
 }
 
 /* Container e footer */
