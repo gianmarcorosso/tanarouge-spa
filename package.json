@@ -28,7 +28,7 @@
       "--disable-setuid-sandbox"
     ],
     "puppeteerIgnoreHTTPSErrors": true,
-    "inlineCss": true
+    "inlineCss": false
   },
   "eslintConfig": {
     "extends": [
