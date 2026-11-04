@@ -20,10 +20,16 @@ function formatDuration(seconds) {
    quiet because everything that needs space lives here instead. */
 function ReleaseModal({ release, onClose }) {
   const panelRef = useRef(null);
-  const closeRef = useRef(null);
 
   useEffect(() => {
-    closeRef.current?.focus();
+    /* The panel takes the focus, not the close button.
+     *
+       Focusing the X put a browser outline on the one control that dismisses
+       the thing you just chose to open -- the first thing the eye landed on
+       was the way out. The panel carries tabIndex={-1} so it can hold focus
+       without joining the tab order; Escape and the tab cycle still work,
+       because the focus sits inside the dialog either way. */
+    panelRef.current?.focus();
 
     const onKeyDown = (e) => {
       if (e.key === 'Escape') onClose();
@@ -70,15 +76,22 @@ function ReleaseModal({ release, onClose }) {
         if (!panelRef.current?.contains(e.target)) onClose();
       }}
     >
-      <div className="release-modal-panel" ref={panelRef}>
+      <div className="release-modal-panel" ref={panelRef} tabIndex={-1}>
         <button
           type="button"
           className="release-modal-close"
           onClick={onClose}
           aria-label="Close"
-          ref={closeRef}
         >
-          ×
+          <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+            <path
+              d="M4 4l8 8M12 4l-8 8"
+              stroke="currentColor"
+              strokeWidth="1.3"
+              strokeLinecap="round"
+              fill="none"
+            />
+          </svg>
         </button>
 
         <img

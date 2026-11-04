@@ -599,6 +599,13 @@ body.dark-mode .music-item-artist {
     background: rgba(0, 0, 0, 0.75);
 }
 
+/* A column on a phone, a row on a desktop.
+ *
+   As a column at every width this sat at 448x608 -- a tall narrow slot in
+   the middle of a wide screen, because the artwork is square and the
+   credits stack underneath it. Measured identically at 1440 and 1920: the
+   panel never used the room it had. Side by side, the square artwork sets
+   the height and the text fills the width beside it. */
 .release-modal-panel {
     position: relative;
     display: flex;
@@ -607,11 +614,59 @@ body.dark-mode .music-item-artist {
     gap: 1.5rem;
     width: 100%;
     max-width: 24rem;
+    /* This stylesheet sets box-sizing per rule rather than globally, so
+       without this line the panel is content-box: max-height caps the
+       content alone and the padding is added on top of it. At 1440x420
+       that rendered a 436px panel inside a 420px window while its own
+       computed height obediently read 356px. */
+    box-sizing: border-box;
+    /* The backdrop is a flex container inset by 2rem of padding, so 100%
+       here is the content box it offers -- the panel stays inside that gap
+       and scrolls internally when the credits are long. */
     max-height: 100%;
     padding: 2rem;
     overflow-y: auto;
     background: #F0EEE6;
     text-align: center;
+}
+
+@media (min-width: 48rem) {
+    .release-modal-panel {
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 2.5rem;
+        max-width: 44rem;
+        padding: 2.5rem;
+        text-align: left;
+    }
+
+    /* The artwork gets the larger share. A title, a credit line and three
+       logos do not fill half of a wide panel -- split evenly, the right
+       side was mostly empty paper. */
+    .release-modal-panel > .release-modal-art {
+        flex: 1.25 1 0;
+        min-width: 0;
+        /* A square free to take 1.25 shares of the width will ask for that
+           much height too, so on a short window it has to be allowed to
+           shrink; object-fit keeps it from distorting as it does. */
+        max-height: 100%;
+        object-fit: contain;
+    }
+
+    .release-modal-panel > .release-modal-body {
+        flex: 1 1 0;
+        min-width: 0;
+        align-self: center;
+        /* Keep clear of the close button in the corner above. On a short
+           window the text column grows to the full panel height and the
+           first line ran under the X -- measured overlapping at 900x380. */
+        padding-right: 1.5rem;
+    }
+
+    /* Left-aligned with the text above them, not centred under the art. */
+    .release-modal-panel .release-modal-links {
+        justify-content: flex-start;
+    }
 }
 
 body.dark-mode .release-modal-panel {
@@ -620,21 +675,44 @@ body.dark-mode .release-modal-panel {
 
 .release-modal-close {
     position: absolute;
-    top: 0.5rem;
+    top: 0.75rem;
     right: 0.75rem;
+    /* A real target rather than a glyph's worth of text: the icon is drawn
+       at 0.85rem and sits centred in a box big enough to hit. */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.75rem;
+    height: 1.75rem;
     padding: 0;
     border: none;
     background: none;
     color: inherit;
-    font-size: 1.6rem;
-    line-height: 1;
     cursor: pointer;
     opacity: 0.4;
     transition: opacity 0.2s ease;
 }
 
+.release-modal-close svg {
+    width: 0.85rem;
+    height: 0.85rem;
+}
+
 .release-modal-close:hover {
     opacity: 1;
+}
+
+/* Keyboard users still get a ring; a mouse click does not draw one. */
+.release-modal-close:focus-visible {
+    opacity: 1;
+    outline: 1px solid currentColor;
+    outline-offset: 2px;
+}
+
+/* The panel holds focus when it opens, which must not show as a ring. */
+.release-modal-panel:focus,
+.release-modal-panel:focus-visible {
+    outline: none;
 }
 
 .release-modal-art {
